@@ -6,6 +6,7 @@ permalink: /subjects.html
 # leave cloud-fields as "site.data.theme.subjects-fields"
 # a cloud visualization will be added below the content in this file
 cloud-fields: site.data.theme.subjects-fields
+{% include feature/cloud.html fields="subject" min="1" background="dark" button="outline-warning" %}
 
 ---
 
