@@ -10,7 +10,7 @@ cloud-fields: site.data.theme.subjects-fields
 
 ## Beatrix Potter
 The Royal Mint released 15 coins in their Beatrix Potter Collection, all designed by Emma Noble, the first of which can be seen below. Noble is a designer for the Royal Mint and has also worked on coins for Remembrance Day and the Queen Elizabeth II's Diamond Jubilee.
-{% include feature/image.html objectid="/images/CoinBeatrixPotterbBackgroundRemoved.png" caption="150th Anniversary of the Birth of Beatrix Potter" width="75" %}
+{% include feature/image.html objectid="/images/CoinBeatrixPotterbBackgroundRemoved.png" caption="150th Anniversary of the Birth of Beatrix Potter" width="50" %}
 
 I currently have 6/15 of these coins, and they are pictured below. Peter Rabbit, Potter's most well-known and beloved character, is featured five separate times, and as part of Beatrix Potter's birthday coin. The collection features well-known characters in Peter Rabbit's universe. 
 
@@ -27,16 +27,16 @@ The collection consists of:
 - Beatrix Potter - Peter Rabbit 2016
 - Beatrix Potter - Jemima Puddle-Duck
 - Beatrix Potter - Mrs. Tiggy-Winkle
-{% include feature/image.html objectid="/images/CoinTiggyWnklebBackgroundRemoved.png" caption="Mrs. Tiggy-Winkle" width="50" %}
+{% include feature/image.html objectid="/images/CoinTiggyWnklebBackgroundRemoved.png" caption="Mrs. Tiggy-Winkle" width="25" %}
 - Beatrix Potter - Squirrel Nutkin
 - Beatrix Potter - The Tale of Peter Rabbit
-{% include feature/image.html objectid="/images/CoinPeterRabbitbBackgroundRemoved.png" caption="Peter Rabbit 2017" width="50" %}
+{% include feature/image.html objectid="/images/CoinPeterRabbitbBackgroundRemoved.png" caption="Peter Rabbit 2017" width="25" %}
 - Beatrix Potter - Tom Kitten
-{% include feature/image.html objectid="/images/CoinTomKittenbBackgroundRemoved.png" caption="Tom Kitten" width="50" %}
+{% include feature/image.html objectid="/images/CoinTomKittenbBackgroundRemoved.png" caption="Tom Kitten" width="25" %}
 - Beatrix Potter - Mr. Jeremy Fisher
-{% include feature/image.html objectid="/images/CoinJeremyFisherbBackgroundRemoved.png" caption="Mr. Jeremy Fisher" width="50" %}
+{% include feature/image.html objectid="/images/CoinJeremyFisherbBackgroundRemoved.png" caption="Mr. Jeremy Fisher" width="25" %}
 - Beatrix Potter - Benjamin Bunny
-{% include feature/image.html objectid="/images/CoinBenjaminBunnybBackgroundRemoved.png" caption="Benajmin Bunny" width="50" %}
+{% include feature/image.html objectid="/images/CoinBenjaminBunnybBackgroundRemoved.png" caption="Benajmin Bunny" width="25" %}
 - Beatrix Potter - Peter Rabbit 2018
 - Beatrix Potter - Flopsy Bunny
 - Beatrix Potter - Mrs. Tittlemouse
