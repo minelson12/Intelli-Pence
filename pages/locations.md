@@ -10,5 +10,6 @@ cloud-fields: site.data.theme.locations-fields
 
 ## Browse Locations
 
+{% include feature/cloud.html fields="location" min="1" background="dark" button="outline-warning" %}
 Use this word cloud visualization to browse locations.
 Word size is determined by frequency and all words link to a corresponding collection search.
