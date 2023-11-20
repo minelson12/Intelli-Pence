@@ -27,16 +27,16 @@ The collection consists of:
 - Beatrix Potter - Peter Rabbit 2016
 - Beatrix Potter - Jemima Puddle-Duck
 - Beatrix Potter - Mrs. Tiggy-Winkle
-{% include feature/image.html objectid="/images/CoinTiggyWnklebBackgroundRemoved.png" %}
+{% include feature/image.html objectid="/images/CoinTiggyWnklebBackgroundRemoved.png" caption="Mrs. Tiggy-Winkle" width="75" %}
 - Beatrix Potter - Squirrel Nutkin
 - Beatrix Potter - The Tale of Peter Rabbit
-{% include feature/image.html objectid="/images/CoinPeterRabbitbBackgroundRemoved.png" %}
+{% include feature/image.html objectid="/images/CoinPeterRabbitbBackgroundRemoved.png" caption="Peter Rabbit 2017" %}
 - Beatrix Potter - Tom Kitten
-{% include feature/image.html objectid="/images/CoinTomKittenbBackgroundRemoved.png" %}
+{% include feature/image.html objectid="/images/CoinTomKittenbBackgroundRemoved.png" caption="Tom Kitten" %}
 - Beatrix Potter - Mr. Jeremy Fisher
-{% include feature/image.html objectid="/images/CoinJeremyFisherbBackgroundRemoved.png" %}
+{% include feature/image.html objectid="/images/CoinJeremyFisherbBackgroundRemoved.png" caption="Mr. Jeremy Fisher" %}
 - Beatrix Potter - Benjamin Bunny
-{% include feature/image.html objectid="/images/CoinBenjaminBunnybBackgroundRemoved.png" %}
+{% include feature/image.html objectid="/images/CoinBenjaminBunnybBackgroundRemoved.png" caption="Benajmin Bunny" %}
 - Beatrix Potter - Peter Rabbit 2018
 - Beatrix Potter - Flopsy Bunny
 - Beatrix Potter - Mrs. Tittlemouse
