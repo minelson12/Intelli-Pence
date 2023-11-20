@@ -1,18 +1,17 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
+title,Title,,
+creator,Creator,,
+date,Date Created,,
+description,Description,,
 subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
+location,Location,
+producer,Producer,,
+source,Source,,
 identifier,Source Identifier,,
-type,Type,
-format,Format,
-multiplecoins,Multiple Coins,
-value,Value,
-rarity,Rarity,
-rights,Rights,
+type,Type,,
+format,Format,,
+multiplecoins,Multiple Coins,,
+value,Value,,
+rarity,Rarity,,
+rights,Rights,,
 rightsstatement,Rights Statement,,true
