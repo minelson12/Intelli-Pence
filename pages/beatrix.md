@@ -17,8 +17,7 @@ The collection consists of:
 - Beatrix Potter - Peter Rabbit 2016
 - Beatrix Potter - Jemiima Puddle-Duck
 - Beatrix Potter - Mrs. Tiggy-Winkle
-{% include feature/image.html objectid="/images/CoinTiggyWinklebBackgroundRemoved.png" %}
-<img src="CoinTiggyWinklebBackgroundRemoved.png" alt="CoinTiggyWinklebBackgroundRemoved" width="250"/>
+{% include feature/image.html objectid="/images/CoinTiggyWinklebBackgroundRemoved.png"|width=100 %}
 - Beatrix Potter - Squirrel Nutkin
 - Beatrix Potter - The Tale of Peter Rabbit
 {% include feature/image.html objectid="/images/CoinPeterRabbitbBackgroundRemoved.png" %}
