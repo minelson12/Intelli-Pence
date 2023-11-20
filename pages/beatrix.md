@@ -10,7 +10,7 @@ cloud-fields: site.data.theme.subjects-fields
 
 ## Beatrix Potter
 The Royal Mint released 15 coins in their Beatrix Potter Collection, all designed by Emma Noble, the first of which can be seen below. Noble is a designer for the Royal Mint and has also worked on coins for Remembrance Day and the Queen Elizabeth II's Diamond Jubilee.
-{% include feature/image.html objectid="/images/CoinBeatrixPotterbBackgroundRemoved.png" %}
+{% include feature/image.html objectid="/images/CoinBeatrixPotterbBackgroundRemoved.png" caption="150th Anniversary of the Birth of Beatrix Potter" %}
 
 I currently have 6/15 of these coins, and they are pictured below. Peter Rabbit, Potter's most well-known and beloved character, is featured five separate times, and as part of Beatrix Potter's birthday coin. The collection features well-known characters in Peter Rabbit's universe. 
 
