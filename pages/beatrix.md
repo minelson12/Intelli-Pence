@@ -9,3 +9,4 @@ cloud-fields: site.data.theme.subjects-fields
 ---
 
 ## Beatrix Potter
+{% include feature/image.html objectid="CoinBeatrixPotterbBackgroundRemoved.png" %}
