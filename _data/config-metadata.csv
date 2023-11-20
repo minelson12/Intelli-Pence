@@ -10,7 +10,7 @@ source,Source,,
 identifier,Source Identifier,,
 type,Type,,
 format,Format,,
-multiplecoins,Part of a Set,,true
+multiplecoins,Part of a Collection,,
 value,Uncirculated Value,,
 rarity,Rarity,,
 rights,Rights,,
