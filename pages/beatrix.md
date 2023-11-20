@@ -17,7 +17,7 @@ The collection consists of:
 - Beatrix Potter - Peter Rabbit 2016
 - Beatrix Potter - Jemiima Puddle-Duck
 - Beatrix Potter - Mrs. Tiggy-Winkle
-![Beatrix Potter - Mrs. Tiggy-Winkle](Intelli-Pence/images/pages/images/CoinTiggyWinklebBackgroundRemoved.png)
+![Beatrix Potter - Mrs. Tiggy-Winkle](Intelli-Pence/images/CoinTiggyWinklebBackgroundRemoved.png)
 - Beatrix Potter - Squirrel Nutkin
 - Beatrix Potter - The Tale of Peter Rabbit
 ![Beatrix Potter - The Tale of Peter Rabbit](Intelli-Pence/images/CoinPeterRabbitbBackgroundRemoved.png)
