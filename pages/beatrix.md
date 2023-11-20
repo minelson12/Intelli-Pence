@@ -10,7 +10,7 @@ cloud-fields: site.data.theme.subjects-fields
 
 ## Beatrix Potter
 The Royal Mint released 15 coins in their Beatrix Potter Collection, all designed by Emma Noble, the first of which can be seen below. 
-![150th Anniversary of the Birth of Beatrix Potter](Intelli-Pence/images/CoinBeatrixPotterbBackgroundRemoved.png)
+![150th Anniversary of the Birth of Beatrix Potter](featureimage.jpg)
 
 The collection consists of:
 - The 150th Anniversary of the Birth of Beatrix Potter
