@@ -11,5 +11,8 @@ source,Source
 identifier,Source Identifier,,
 type,Type,
 format,Format,
+multiplecoins,Multiple Coins,
+value,Value,
+rarity,Rarity,
 rights,Rights,
 rightsstatement,Rights Statement,,true
