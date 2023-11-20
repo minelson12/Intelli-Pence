@@ -18,7 +18,7 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 
 ## Further Exploration
 
-For more information on the Royal Mint's commemorative 50p coins visit their offical [site](https://www.royalmint.com/discover/uk-coins/coin-design-and-specifications/fifty-pence-coin/)!
+For more information on the Royal Mint's commemorative 50p coins visit their offical [site](https://www.royalmint.com/discover/uk-coins/coin-design-and-specifications/fifty-pence-coin/).
 
 ## About the Platform
 
@@ -27,7 +27,7 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/).
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 
