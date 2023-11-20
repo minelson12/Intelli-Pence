@@ -8,7 +8,7 @@ permalink: /subjects.html
 cloud-fields: site.data.theme.subjects-fields
 
 ---
-{% include feature/cloud.html fields="subject" min="1" background="dark" button="outline-warning" %}
+
 ## Browse Subjects
 
 Use this word cloud visualization to browse terms and subjects.
