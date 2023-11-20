@@ -6,4 +6,4 @@ permalink: /timeline.html
 ---
 
 ## Collection Timeline
-{% include feature/timelinjs.html %}
+{% include feature/timelinejs.html %}
