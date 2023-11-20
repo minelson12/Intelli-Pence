@@ -25,7 +25,7 @@ Peter Rabbit also appears on special uncirculated £5 coins and 1oz Gold Coins f
 The collection consists of:
 - The 150th Anniversary of the Birth of Beatrix Potter
 - Beatrix Potter - Peter Rabbit 2016
-- Beatrix Potter - Jemiima Puddle-Duck
+- Beatrix Potter - Jemima Puddle-Duck
 - Beatrix Potter - Mrs. Tiggy-Winkle
 {% include feature/image.html objectid="/images/CoinTiggyWnklebBackgroundRemoved.png" %}
 - Beatrix Potter - Squirrel Nutkin
